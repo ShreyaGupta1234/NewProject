@@ -1,4 +1,4 @@
-# NewProject
+# Resume Selection using NLP and Machine Learning 
  Resume Selection using NLP and Machine Learning
 This project is designed to identify and flag resumes based on their content using various NLP techniques and machine learning. It involves dataset cleaning, preprocessing, and exploratory data analysis (EDA) on a collection of resumes, with the goal of classifying them into flagged or not_flagged categories.
 
