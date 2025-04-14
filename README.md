@@ -2,7 +2,7 @@
  Resume Selection using NLP and Machine Learning
 This project is designed to identify and flag resumes based on their content using various NLP techniques and machine learning. It involves dataset cleaning, preprocessing, and exploratory data analysis (EDA) on a collection of resumes, with the goal of classifying them into flagged or not_flagged categories.
 
-📁 Project Structure
+# 📁 Project Structure
 kotlin
 Copy
 Edit
@@ -16,7 +16,7 @@ Edit
 🔍 Features
 Text preprocessing (cleaning, tokenization, stopword removal)
 
-Text vectorization
+# Text vectorization
 
 Visualization (word clouds, frequency distributions)
 
@@ -24,7 +24,7 @@ Machine learning classification
 
 Binary label mapping (flagged → 1, not_flagged → 0)
 
-📦 Libraries Used
+# 📦 Libraries Used
 pandas
 
 numpy
@@ -41,21 +41,21 @@ sklearn
 
 wordcloud
 
-Install them all at once:
+# Install them all at once:
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
 🧪 How to Run
-Clone the repo:
+# Clone the repo:
 
 bash
 Copy
 Edit
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-Install dependencies:
+# Install dependencies:
 
 bash
 Copy
@@ -67,12 +67,12 @@ bash
 Copy
 Edit
 jupyter notebook notebooks/Resume_Selection.ipynb
-📊 Dataset
+# 📊 Dataset
 Located in the data/ folder:
 
 resume_data.csv: Contains resume_id, class, and resume_text.
 
-📈 Sample Workflow
+# 📈 Sample Workflow
 Import and install required libraries
 
 Load and explore dataset
