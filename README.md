@@ -85,4 +85,5 @@ Create a "cleaned" column for vectorization
 
 Train a classifier and evaluate results
 
-👨‍💻 Author
+# 👨‍💻 Author
+Shreya Gupta
